@@ -33,13 +33,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
+- 💼 LinkedIn:https://www.linkedin.com/in/eitan-pinhasov-a288a2268/
+- 📧 Email: Peitan722@gmail.com
