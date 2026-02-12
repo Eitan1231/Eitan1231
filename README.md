@@ -16,16 +16,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-![Languages](https://skillicons.dev/icons?i=cs,python,dart,cpp,c,js,ts)
+![Languages](https://skillicons.dev/icons?i=cs,python,dart,cpp,c,js)
 
 ### 📱 App & Web
-![AppWeb](https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind)
+![AppWeb](https://skillicons.dev/icons?i=flutter,react,nextjs,html,css)
 
 ### ⚙️ Systems & DevOps
-![DevOps](https://skillicons.dev/icons?i=docker,linux,bash,azure,github)
+![DevOps](https://skillicons.dev/icons?i=linux,bash,github)
 
 ### 🧠 Tools
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,rider,pycharm,clion,figma,unity,unreal)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm)
 
 ---
 
