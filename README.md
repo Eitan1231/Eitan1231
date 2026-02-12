@@ -19,7 +19,7 @@
 ![Languages](https://skillicons.dev/icons?i=cs,python,dart,cpp,c,js)
 
 ### 📱 App & Web
-![AppWeb](https://skillicons.dev/icons?i=flutter,react,nextjs,html,css)
+![AppWeb](https://skillicons.dev/icons?i=flutter,html,css)
 
 ### ⚙️ Systems & DevOps
 ![DevOps](https://skillicons.dev/icons?i=linux,bash,github)
