@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-![Languages](https://skillicons.dev/icons?i=cs,python,dart,cpp,c,js)
+![Languages](https://skillicons.dev/icons?i=cs,python,dart,c)
 
 ### 📱 App & Web
 ![AppWeb](https://skillicons.dev/icons?i=flutter,html,css)
