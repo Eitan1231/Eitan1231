@@ -22,7 +22,7 @@
 ![AppWeb](https://skillicons.dev/icons?i=flutter,html,css)
 
 ### ⚙️ Systems & DevOps
-![DevOps](https://skillicons.dev/icons?i=linux,bash,github)
+![DevOps](https://skillicons.dev/icons?i=linux,bash,github,splunk)
 
 ### 🧠 Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,arduino)
