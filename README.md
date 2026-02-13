@@ -25,7 +25,7 @@
 ![DevOps](https://skillicons.dev/icons?i=linux,bash,github,splunk)
 
 ### 🧠 Tools
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,arduino,kali,nmap)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,arduino,kali,git)
 
 ---
 
