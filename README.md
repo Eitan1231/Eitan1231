@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Electronics & Computer Engineering Student  
-- 💻 Software Developer (C#, Python, Dart, C++)  
+- 💻 Software Developer (C#, Python, Dart,c)  
 - 🔐 Cybersecurity & SOC Enthusiast  
 - 🧠 Strong interest in DevOps & System Architecture  
 - 🚀 Building real-world projects (Apps, Systems, Automation)  
@@ -25,7 +25,7 @@
 ![DevOps](https://skillicons.dev/icons?i=linux,bash,github,splunk)
 
 ### 🧠 Tools
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,arduino)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,arduino,kali)
 
 ---
 
